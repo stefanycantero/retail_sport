@@ -75,4 +75,4 @@ Este proyecto analiza un conjunto de datos simulados para la empresa ficticia **
 
 - `retail_sport.ipynb`: Notebook principal con análisis completo.
 - `README.md`: Este documento.
-- `ventas_simuladas.csv`
+- `ventas_simuladas.csv`: archivo con el conjunto de datos simulado para el caso.
